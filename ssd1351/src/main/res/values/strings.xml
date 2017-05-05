@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SSD1351</string>
+
+    <string name="Display_Edison_Arduino">SPI2</string>
+    <string name="Display_Edison_Sparkfun">SPI2</string>
+    <string name="Display_Joule_Tuchuck">SPI0</string>
+</resources>
